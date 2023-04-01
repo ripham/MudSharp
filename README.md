@@ -35,4 +35,4 @@ If the `Server` is the core of the MudSharp project, `World` is its heart. This 
 
 Craig Mackles is an avid gamer and has been playing MUDs since 1998 and writing code for them for a number of years. Armageddon and Distant Lands were his choice worlds, also having been a code contibutor to Distant Lands for a few years. For info on Craig's professional career as it relates to development, check out his [LinkedIn profile](https://www.linkedin.com/in/cmackles).
 
-modificado por mi
+modificado por mi, con ssh
